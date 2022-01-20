@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AnechkaGit
+- 👋 Hi, I’m @lugannik
 - 👀 I’m interested in C programming for beginners
 - 🌱 I’m currently studying at School 21 in Moscow (Russian part of School 42 franchise)
 - 📫 How to reach me - @lugannik (insta, whatsapp, telegram)
